@@ -1,0 +1,4 @@
+echo "Hello,"
+read Name
+Harshita
+echo "Hello, $Name"

@@ -1,0 +1,5 @@
+echo "enter two number"
+read a
+read b
+val=$((a/b))
+echo "quotient is:$val"
